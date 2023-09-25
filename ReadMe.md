@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Leonardo 
+Hi!, My name is Leonardo 
 ### Software Developer / IT Specialist
 
 Software Developer / IT Specialist with experience in servers, networks, and software development. I excel in server administration and installation, network design and configuration. Extensive experience in software development and CI/CD solutions. Passionate about staying updated on the latest technological trends. With over 10 years of experience in the industry, I can develop solutions tailored to the client's needs.🌍  I'm based in Buenos Aires, Argentina ✉️  You can contact me at [leo.lopez.oro@gmail.com](mailto:leo.lopez.oro@gmail.com)🤝  I'm open to collaborating on Mobile apps, Games, Webs ⚡  willing to collaborate on open source projects
